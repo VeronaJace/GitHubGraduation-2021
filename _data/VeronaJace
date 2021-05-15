@@ -1,0 +1,7 @@
+_data/VeronaJace/VeronaJace.md
+---
+name: Jair Eugenio Verona Montes # No longer than 28 characters
+institution: Facultad de Contaduria y Administración # no longer than 58 characters
+quote: Lex malla, lex nulla # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+github_user: VeronaJace
+---
